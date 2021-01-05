@@ -81,6 +81,7 @@ def detect():
         result = detect_color_image(input_file)
         print(result)
         flash('Image successfully uploaded and displayed', 'success')
+        os.remove(file_path)
         # return render_template('home.html', filename = filename, result = result)
 
     else:
