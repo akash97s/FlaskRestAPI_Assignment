@@ -3,6 +3,11 @@ Flask Rest API
 This appication helps in detecting whether an image is Colored or Black & White
 Tech stack: Flask + Javascript + Bootstrap
 
+Dependencies:
+Python3
+Flask
+request
+
 Implement:
 1. Clone repo
 2. From repo -> python app.py
