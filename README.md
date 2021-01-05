@@ -9,16 +9,29 @@ Steps:
 
 Home page:
 
-<img src="Screenshots/Home_page.PNG" width="100%" height="3000px" >
+<img src="Screenshots/Home_page.PNG">
 
 Black and white image file:
 
+<img src="Screenshots/BW_file.PNG">
+
 Color file:
+
+<img src="Screenshots/color_file.PNG">
 
 Different file type:
 
+<img src="Screenshots/different_file_type.PNG">
+
 Without file:
+
+<img src="Screenshots/Without_file.PNG">
 
 About page:
 
+<img src="Screenshots/About_page.PNG">
+
 Server logs:
+
+<img src="Screenshots/server_log.PNG">
+
