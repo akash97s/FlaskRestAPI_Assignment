@@ -9,7 +9,7 @@ Steps:
 
 Home page:
 
-<img src="Screenshots/About_page.PNG">
+<img src="Screenshots/Home_page.PNG" >
 
 Black and white image file:
 
